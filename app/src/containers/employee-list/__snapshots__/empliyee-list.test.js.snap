@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Employee list >> App snapshot test 1`] = `
+<ul>
+  <li>
+    jose david
+  </li>
+  <li>
+    diana
+  </li>
+</ul>
+`;
